@@ -1,0 +1,121 @@
+.jumbotron {
+    background: #333 url('../images/digital-26.webp') -400px -200px;
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    border-bottom: 5px #f4f4f4 solid;
+}
+
+
+.jumbotron-main {
+    padding: 5 55px 40px 55px;
+}
+
+
+.jumbotron p.lead {
+    font-size: 2rem;
+    margin-bottom: 60px;
+}
+
+.jumbotron-main h1 {
+    margin-top: 60px;
+    margin-bottom: 35px;
+}
+
+.navbar {
+   margin: 0;
+   color: #fff;
+}
+
+.box {
+   text-align: center; 
+}
+
+.box .glyphicon {
+    font-size: 45px;
+}
+
+.section-a {
+    background: #181d31;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+.section-a h1 {
+    font-size: 5rem;
+}
+
+.img-fullsize {
+    width: 100%;
+}
+
+
+.page-footer {
+    background: #181d31;
+    color: #fff;
+    padding: 50px;
+}
+
+.list-group-item .glyphicon {
+    font-size: 20px;
+}
+
+.subtitles {
+    font-size: 18px;
+}
+
+.subtitle {
+    font-size: 18px;
+}
+
+.list-unstyled {
+    font-size: 1.5rem;
+    color: rgb(8, 10, 31);
+}
+
+
+a{
+    color: #333300;
+    text-decoration: none;
+}
+a:visited{
+    color: #f6ffe9;
+}
+a:hover{
+    color: rgb(245, 239, 239);
+    text-decoration: none;
+}
+h3{
+    margin: 0;
+    padding: 0 0 4px;
+}
+p{
+    margin: 0;
+    padding: 0 0 8px;
+}
+.pane-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.pane-list li{
+    background: #c0c3c4;
+    font-size: 20px;
+    padding: 10px 20px 10px;
+    border-top: solid 1px #a9abac;
+    cursor: pointer;
+}
+.pane-list li:hover{
+    background: #9ea0a1;
+}
+
+.pane-list h3 {
+    font-size: 2rem;
+    
+}
+
+
+
+
